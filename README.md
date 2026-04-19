@@ -83,6 +83,3 @@ This project implements the same logical flow used in:
 - **FSD:** Self-driving car trajectory mapping.
 
 ---
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
